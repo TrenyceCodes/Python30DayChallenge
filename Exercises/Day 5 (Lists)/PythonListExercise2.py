@@ -74,7 +74,7 @@ def compareValue(ages: list[int]):
 compareValue(ages=ages)
 
 #Find the middle country(ies) in the countries list
-from countries import *
+from lists import countries
 
 def findMiddleCountries(countries: list[int]):
     listLength = len(countries)
